@@ -1,6 +1,6 @@
 # Details
 
-Blog post: https://sridharkatakam.com/genesis-starter-child-theme
+Blog post: https://sridharkatakam.com/genesis-in-a-box/
 
 
 # Genesis Sample Theme
